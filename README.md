@@ -34,4 +34,4 @@ Des recommandations concrètes sont disponibles à la fin du notebook, basées s
 ## 📬 Contact
 Arven-Artchy Pierre-Louis  
 Data Analyst
-📧 arven.data@gmail.com / (509)4430 4676
+📧 artchyvens2001@gmail.com / (509)4430 4676
