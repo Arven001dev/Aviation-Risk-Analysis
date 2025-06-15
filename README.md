@@ -32,5 +32,6 @@ Des recommandations concrètes sont disponibles à la fin du notebook, basées s
 👉 [Voir le notebook sur GitHub](./Final.ipynb)
 
 ## 📬 Contact
-Arven Pierre-Louis  
-📧 arven.data@gmail.com (à adapter selon tes infos)
+Arven-Artchy Pierre-Louis  
+Data Analyst
+📧 arven.data@gmail.com / (509)4430 4676
