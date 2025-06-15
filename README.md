@@ -19,6 +19,7 @@ Utiliser les données pour :
 ## 📁 Fichiers inclus
 - `Final.ipynb` : le notebook contenant toute l’analyse
 - `AviationData.csv` : fichier source utilisé pour l’étude
+- `Aviation Risk Dashboard.pbix` : le fichier contenant le dashboard interactif
 
 ## ✅ Résultats clés
 - Les accidents concernent principalement les avions à un moteur.
